@@ -1,0 +1,23 @@
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.csproj.AssemblyReference.cache
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.AssemblyInfoInputs.cache
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.AssemblyInfo.cs
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\Practica1.exe
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\Practica1.deps.json
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\Practica1.runtimeconfig.json
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\Practica1.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\Practica1.pdb
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\refint\Practica1.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.pdb
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.genruntimeconfig.cache
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\ref\Practica1.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\musica espacial. planetas y cometas.wav
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Uni\1ºV\Fp2\Practicas\Practica1\Practica1\obj\Debug\net6.0\Practica1.csproj.CopyComplete
